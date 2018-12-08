@@ -32,9 +32,9 @@ You can verify it using the command** ```modinfo beaglelogic```
 acquisition
 * testapp: A simple test application that shows how to use the userspace API of BeagleLogic
 and benchmarks memory copy speeds.
- 
+
 Selected binaries and archives related to the project may be downloaded from
-[this link](http://goo.gl/770FTZ). Refer to the wiki for more information 
+[this link](http://goo.gl/770FTZ). Refer to the wiki for more information
 regarding the use of the archives and the binaries.
 
 License
@@ -47,4 +47,5 @@ License
  * **Cape** : CERN Open Hardware License
  * **Logo** : [Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)]
 (http://creativecommons.org/licenses/by-sa/4.0/)
+* **AA01B-S040VA1**: GLPv2
 
